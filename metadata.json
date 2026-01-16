@@ -1,0 +1,5 @@
+{
+  "name": "Agentic RAG System Explorer",
+  "description": "A high-fidelity implementation of an Agentic Retrieval-Augmented Generation system with built-in safety measures, featuring a Maker-Checker loop, input validation, and real-time reasoning visualization.",
+  "requestFramePermissions": []
+}
